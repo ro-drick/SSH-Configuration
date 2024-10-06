@@ -1,4 +1,10 @@
 # Packet Tracer - Configuring SSH
+<br/>
+<p align="center">
+  <img src="https://github.com/ro-drick/SSH-Configuration/blob/main/SSH.png"/>
+</p>
+<br/>
+
 
 ## Addressing Table
 
